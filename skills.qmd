@@ -1,0 +1,62 @@
+---
+title: "Skills & Certifications"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+# Skills & Certifications
+
+This page summarizes my interpersonal and technical skills, certifications, and tools I've used throughout my career.
+
+---
+
+## Technical Skills
+
+- Nutrition planning and service design
+- Healthcare management
+- Custumer service management
+- Retail operations
+- Busines strategy and operations
+
+---
+
+## Certifications
+
+- **Certified Digital Marketing Associate** — 2025  
+- **Agile Scrum Foundation** — 2025  
+- **Introduction to Cloud Computing** — 2025  
+- **Food Service Level 1** — 2025  
+- **Introduction to JIRA** — 2025
+
+---
+
+## Tools 
+
+- **CRM Tools**: Salesforce, Trello, JIRA  
+- **Analytics & Visualization**: Google Analytics (Intro) 
+- **Documentation**: Quarto, Markdown 
+
+---
+
+## Languages
+
+- **Spanish**: Native  
+- **English**: Fluent  
+- **French**: Basic
+
+---
+
+## Soft Skills
+
+- Training Staff
+- Time management 
+- Organizational skills
+- Bilingual client engagement
+- Leadership and team work 
+- Cross-Cultural Communication  
+- Adaptability in International 
+  
+
+

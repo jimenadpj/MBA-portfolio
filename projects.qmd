@@ -1,0 +1,66 @@
+---
+title: "Projects & Case Studies"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+# Projects & Case Studies
+
+The projects mentioned below demonstrate my ability to lead in the areas of health and healthcare, improve logistics operations, and integrate wellness with businesses in multicultural environments.
+
+---
+
+## Retail Operations and Cross-Cultural Training
+
+**Role**: Deli Expert, 2024–Present  
+**Location**: Fresh Street Market, North Vancouver, Canada
+
+I introduced operational and communication skills within the department while completing my MBA.
+
+- I identified and improved food safety and hygiene workflows.
+- I supported onboarding and multicultural communication with new staff.
+
+---
+
+## Clinic Management Overhaul in Peru
+
+**Role**: Medical Center Manager CorpoSano, 2016–2023  
+**Location**: Private Healthcare Clinics, Peru
+
+I contributed to the restructuring of the private clinic's operations to improve service quality by increasing the flow and utilization of both staff and patients/clients.
+
+- Adapted tools to reduce administrative overhead.
+- Increased customer satisfaction by:
+- Coordinated with departments within the clinic.
+
+---
+
+## Nutrition Logistics in Mining Camps
+
+**Role**: Nutritionist, 2012–2015  
+**Location**: Volcan Mining, Peru
+
+I redesigned of the nutrition system for mine workers.
+
+- Development of weekly or monthly nutritional plans based on health risk factors.
+- Creation of hygiene and food handling workshops for kitchen staff.
+
+---
+
+## Academic Business Project: AI in Healthcare
+
+**Course**: BUSI 654 – Application of AI in Business  
+**Institution**: University Canada West (2025)
+
+- Used Quarto to present a digital report   
+- Brainstormed predictive models with LLM support  
+
+---
+
+## Tools Used 
+
+- **CRM Tools**: Salesforce, Trello, JIRA  
+- **Analytics**: Google Analytics (Intro)    
+- **Documentation**: Quarto, Markdown

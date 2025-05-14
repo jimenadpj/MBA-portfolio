@@ -1,0 +1,78 @@
+---
+title: "Resume"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+# Jimena Del Pozo — Resume
+
+You can also download a PDF version of my resume here:  
+📄 [Download Resume (PDF)](assets/Jimena-Del-Pozo-Resume.pdf)
+
+---
+
+## Education
+
+**Master of Business Administration (MBA)**  
+University Canada West — *Expected 2025*  
+Focus: Strategy, Leadership, Management, Digital Transformation, AI in Business
+
+**Bachelor of Science in Nutrition**  
+Sacred Heart Women’s University — *Graduated 2010*  
+Completed a five-year carreer including clinical nutrition, sports, physiology, and management.
+
+**Specialist in Sports and Nutrition Science**  
+Southern Scientific University — *Graduated 2013*
+
+---
+
+## Certifications
+
+- **Certified Digital Marketing Associate** — 2025  
+- **Agile Scrum Foundation** — 2025  
+- **Introduction to Cloud Computing** — 2025  
+- **Food Service Level 1** — 2025  
+- **Introduction to JIRA** — 2025
+
+---
+
+## Professional Experience
+
+### Deli Expert  
+**Fresh Street Market**, North Vancouver, Canada — *2024–Present*  
+- Ensure high standards of food quality and customer service  
+- Adapt to multicultural workplace while completing MBA studies  
+- Improve operations in fast-paced retail environment
+
+### Medical Center Manager  
+**Private Healthcare Clinics**, Peru — *2016–2023*  
+- Managed staff and operational logistics in two urban health clinics  
+- Led HR, budgeting, scheduling, and service design  
+- Oversaw efficiency projects and increased patient satisfaction
+
+### Nutritionist – Mining Camp  
+**Volcan Mining**, Peru — *2012–2015*  
+- Designed and implemented nutrition programs for mine workers  
+- Delivered hygiene and food handling training  
+- Planned menus and food logistics in high-demand environments
+
+---
+
+## Languages
+
+- Spanish: Native  
+- English: Fluent  
+- French: Basic
+
+---
+
+## Tools 
+
+- JIRA  
+- Canva  
+- Trello  
+- Google Analytics introduction   
+- CRM tools (Salesforce)
+
