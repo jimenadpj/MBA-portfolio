@@ -1,0 +1,35 @@
+/* Custom Styling for Flatly Theme - Jimena Del Pozo Portfolio */
+
+body {
+  background-color: #f7fdfc; /* very light blue background */
+  color: #2c3e50; /* standard dark blue text */
+  font-family: "Segoe UI", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #1c4e80; /* darker, confident blue for headings */
+}
+
+h2 {
+  border-bottom: 2px solid #d1ecf1; /* soft blue accent */
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+a {
+  color: #117a8b; /* link color - stylish and strong */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #0b5c6b;
+}
+
+img {
+  border-radius: 10px;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+  
+      
